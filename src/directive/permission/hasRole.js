@@ -1,6 +1,6 @@
  /**
  * v-hasRole 角色权限处理
- * Copyright (c) 2019 wr
+ * Copyright (c) 2023 wr
  */
  
 import useUserStore from '@/store/modules/user'
